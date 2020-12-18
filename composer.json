@@ -1,5 +1,5 @@
 {
-    "name": "ivandowhai/snapchat_ads_client",
+    "name": "codelint/snapchat_ads_client",
     "type": "library",
     "description": "HTTP client for Snapchat ads API",
     "license": "MIT",
@@ -8,6 +8,11 @@
             "name": "Ivan Dovhai",
             "email": "ivan_dovhai@i.ua",
             "homepage": "https://github.com/ivandowhai"
+        },
+        {
+            "name": "codelint",
+            "email": "codelint@foxmail.com",
+            "homepage": "https://github.com/codelint"
         }
     ],
     "require": {
